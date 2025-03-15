@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2addbc3a1f8ba54fa988629b4cc7d18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upgradeButton: {fileID: 7586010931859146703, guid: cc233cb7bfc7a904f92c855b78ffff5a, type: 3}
+  - sellButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
